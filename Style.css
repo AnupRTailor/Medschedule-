@@ -1,0 +1,38 @@
+#Medschedule {
+    margin-left: 80px;
+    margin-top: 0px;
+    width: 400px;
+    height: 140px;
+}
+#Home {
+    font-size: 29px;
+    color: #333;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 250px;
+}
+#Testimonials {
+    font-size: 29px;
+    color: #333;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+#Aboutus {
+    font-size: 29px;
+    color: #333;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+#Login {
+    font-size: 29px;
+    color: #333;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 100px;
+    color: #fff;
+    background-color: blue;
+    border-radius: 20px;
+    text-decoration: underline;
+}
